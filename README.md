@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amal Kamel</h1>
-<h3 align="center">A Passionate Front-End Developer</h3>
+<h3 align="center">A Passionate Mobile App Developer</h3>
 
-- 🌱 I’m currently learning **Front-End**
+- 🌱 I’m currently learning **Back-End**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
